@@ -1,5 +1,8 @@
 # UserList
 
+It shows name and city of 10 users from endpoint https://jsonplaceholder.typicode.com/users inside table
+using NgRx.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
 
 ## Development server
